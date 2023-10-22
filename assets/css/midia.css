@@ -1,0 +1,119 @@
+@media screen and (max-width:320px){
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    input{
+        align-self: center;
+        width: 65%;
+    }
+}
+
+@media screen and (max-width:425px){
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    input{
+        align-self: center;
+        width: 65%;
+    }
+
+    #contato{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    h2{
+        font-size: 32px;
+        text-align: center;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    input{
+        align-self: center;
+        width: 85%;
+    }
+
+    img{
+        display: none;
+    }
+
+    ul{
+        text-align: center;
+        margin: 0 auto;
+        max-width: 500px;
+        line-height: 20px;
+    }
+
+    nav ul{
+        display: none;
+    }
+}
+
+@media screen and (max-width:960px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    h2{
+        font-size: 32px;
+        text-align: center;
+    }
+
+    form{
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    input{
+        align-self: center;
+        width: 85%;
+    }
+
+    img{
+        display: none;
+    }
+
+    ul{
+        text-align: center;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width:1024) {
+    span, h2{
+        font-size: 30px;
+    }
+
+    main{
+        padding: 10px;
+    }
+
+    img{
+        padding: 10px;
+    }
+
+    form[type="submit"]{
+        width: 100%;
+    }
+}
