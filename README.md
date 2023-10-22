@@ -1,6 +1,6 @@
 # Simple Landing Page
 
-![simple-landing-page](/assets/readme/img/landing-page.png)
+![simple-landing-page](/assets/img/img-readme.png)
 
 Projeto de uma página web simples, utilizando HTML 5 e CSS 3.
 
